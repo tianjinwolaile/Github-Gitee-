@@ -1,7 +1,7 @@
 # GitHub 项目同步工具  
 **一键 Pull / Push / Clone，简单高效的 Git 图形化工具**  
 
-![界面截图](屏幕截图 2026-06-04 080358.png)  
+![界面截图]([屏幕截图 2026-06-04 080358.png](https://github.com/tianjinwolaile/Github-Gitee-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-06-04%20080358.png))  
 （请替换为实际截图路径）
 
 ---

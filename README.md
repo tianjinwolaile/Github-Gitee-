@@ -36,7 +36,6 @@
 
 #### 方法 2 - 从源代码运行  
 ```bash
-git clone https://github.com/your-repo/github-updater.git
-cd github-updater
-pip install -r requirements.txt
+git clone [https://github.com/your-repo/github-updater.git](https://github.com/tianjinwolaile/Github-Gitee-.git)
+cd Github-Gitee-
 python github_updater.py

@@ -32,7 +32,7 @@
 
 ### 第二步：运行工具  
 #### 方法 1 - 直接运行（推荐小白）  
-👉 [下载最新版 EXE 文件](https://github.com/your-repo/releases)  
+👉 [下载最新版 EXE 文件]([https://github.com/your-repo/releases](https://github.com/tianjinwolaile/Github-Gitee-/releases/tag/v1))  
 
 #### 方法 2 - 从源代码运行  
 ```bash
